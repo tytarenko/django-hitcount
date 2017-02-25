@@ -6,3 +6,4 @@
 -r docs/requirements.txt
 twine==1.6.5
 wheel==0.29.0
+django-ipware==1.1.6
